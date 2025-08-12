@@ -1,6 +1,12 @@
-# Hey I'm Nishit 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+Nishit+Nagar;Problem+Solving+Enthusiast;Full+Stack+Developer;Java+Developer" alt="Typing SVG"
+ />
+</div>
 
-**Backend Engineer | Java Developer**
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 
 [![Email](https://img.shields.io/badge/Email-Contact-ff5555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nachiket224@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-wireguard.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rdzuPgPP)
@@ -18,12 +24,39 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="20" /> &nbsp; Tech Stack
+## 🛠️ Technology Stack
 
-- **Frameworks & Libraries:** React.js, Spring Boot, Tailwind CSS, Bootstrap
-- **Languages:** Java, C, Python, JavaScript
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Postman, VS Code, Eclipse, Intellij IDEA, DBeaver, Figma
+<details open>
+<summary><b>Expand to view my tech arsenal!</b></summary>
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,cpp" />
+</p>
+
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui" />
+</p>
+
+### 🔧 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,django,laravel" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+</p>
+
+</details>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -34,3 +67,15 @@ Thanks for stopping by! 🚀
 ---
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
+
+## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <h3>🤝 Let's build something amazing together!</h3>
+  <p>Open for collaborations and interesting projects</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
