@@ -66,6 +66,27 @@ Thanks for stopping by! 🚀
 
 ---
 
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishit-2212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishit-2212&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishit-2212&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph" />
+</div>
+
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+
+
+
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
 ## 💭 Random Dev Quote
